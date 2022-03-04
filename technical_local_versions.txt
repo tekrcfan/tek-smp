@@ -1,0 +1,28 @@
+Releases
+5b1ee4a3-dfbf-4190-bb08-93ca03561416 Microsoft.MinecraftUWP_1.18.203.0_arm__8wekyb3d8bbwe 
+26902685-9bc0-40f5-9273-e8f6bd3f1f9d Microsoft.MinecraftUWP_1.18.203.0_x64__8wekyb3d8bbwe 
+f8964a59-cf03-4762-bca3-10f9d67aeb28 Microsoft.MinecraftUWP_1.18.203.0_x86__8wekyb3d8bbwe 
+aa699294-4465-4982-ad9d-fd3a81c3b23f Microsoft.MinecraftUWP_1.18.203.70_arm__8wekyb3d8bbwe 
+db56802a-6e9c-4003-abce-9a3677629086 Microsoft.MinecraftUWP_1.18.203.70_x64__8wekyb3d8bbwe 
+0975c7ef-f4f4-4ef9-917f-92e52f7546a5 Microsoft.MinecraftUWP_1.18.203.70_x86__8wekyb3d8bbwe 
+7716cd76-81cb-496e-99a2-e105420e41f3 Microsoft.MinecraftUWP_1.18.203.0_arm__8wekyb3d8bbwe 
+9ec675ce-5acc-40bc-96aa-bbef85cb08ee Microsoft.MinecraftUWP_1.18.203.0_x64__8wekyb3d8bbwe 
+42651783-3157-4812-a60b-f28116076714 Microsoft.MinecraftUWP_1.18.203.0_x86__8wekyb3d8bbwe 
+6a6ad08c-402a-4534-851f-0dc6ebd3d2e8 Microsoft.MinecraftUWP_1.18.203.70_arm__8wekyb3d8bbwe 
+b029cfe1-9a90-408e-85c1-24a8c86f937e Microsoft.MinecraftUWP_1.18.203.70_x64__8wekyb3d8bbwe 
+cf3027bc-9705-4d69-b741-c3b826b00052 Microsoft.MinecraftUWP_1.18.203.70_x86__8wekyb3d8bbwe 
+
+Beta
+5b1ee4a3-dfbf-4190-bb08-93ca03561416 Microsoft.MinecraftUWP_1.18.203.0_arm__8wekyb3d8bbwe 
+26902685-9bc0-40f5-9273-e8f6bd3f1f9d Microsoft.MinecraftUWP_1.18.203.0_x64__8wekyb3d8bbwe 
+f8964a59-cf03-4762-bca3-10f9d67aeb28 Microsoft.MinecraftUWP_1.18.203.0_x86__8wekyb3d8bbwe 
+aa699294-4465-4982-ad9d-fd3a81c3b23f Microsoft.MinecraftUWP_1.18.203.70_arm__8wekyb3d8bbwe 
+db56802a-6e9c-4003-abce-9a3677629086 Microsoft.MinecraftUWP_1.18.203.70_x64__8wekyb3d8bbwe 
+0975c7ef-f4f4-4ef9-917f-92e52f7546a5 Microsoft.MinecraftUWP_1.18.203.70_x86__8wekyb3d8bbwe 
+7716cd76-81cb-496e-99a2-e105420e41f3 Microsoft.MinecraftUWP_1.18.203.0_arm__8wekyb3d8bbwe 
+9ec675ce-5acc-40bc-96aa-bbef85cb08ee Microsoft.MinecraftUWP_1.18.203.0_x64__8wekyb3d8bbwe 
+42651783-3157-4812-a60b-f28116076714 Microsoft.MinecraftUWP_1.18.203.0_x86__8wekyb3d8bbwe 
+6a6ad08c-402a-4534-851f-0dc6ebd3d2e8 Microsoft.MinecraftUWP_1.18.203.70_arm__8wekyb3d8bbwe 
+b029cfe1-9a90-408e-85c1-24a8c86f937e Microsoft.MinecraftUWP_1.18.203.70_x64__8wekyb3d8bbwe 
+cf3027bc-9705-4d69-b741-c3b826b00052 Microsoft.MinecraftUWP_1.18.203.70_x86__8wekyb3d8bbwe 
+

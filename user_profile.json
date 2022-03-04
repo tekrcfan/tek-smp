@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "tekrc": {
+      "Name": "tekrc",
+      "ProfilePath": "tekrc",
+      "Installations": []
+    },
+    "roshan": {
+      "Name": "roshan",
+      "ProfilePath": "roshan",
+      "Installations": []
+    }
+  }
+}
